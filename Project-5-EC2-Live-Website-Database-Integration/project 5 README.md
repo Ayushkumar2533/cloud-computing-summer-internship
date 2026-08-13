@@ -31,4 +31,5 @@ Cleanup
 Terminate EC2, delete snapshots/EBS, and remove RDS to avoid charges.
 
 Author:
-Ayushkumar2533
+Ayushkumar
+
