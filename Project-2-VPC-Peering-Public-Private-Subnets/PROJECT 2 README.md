@@ -3,7 +3,7 @@
 Author: Ayush kumar
 Repository: cloud-computing-summer-internship  
 Project: VPC Peering, Public and Private Subnets (Project 2)  
-Date: (replace with date)
+
 
 ## Overview
 This project demonstrates designing and implementing two AWS VPCs connected by a VPC Peering connection. Each VPC contains a public subnet and a private subnet. The public subnet hosts bastion (jump) instances and NAT Gateway as needed; the private subnet hosts application servers that are not directly accessible from the internet. Routing and security group rules are configured to allow secure, controlled communication between resources in the two VPCs.
