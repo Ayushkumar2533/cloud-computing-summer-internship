@@ -1,6 +1,6 @@
 # Project 2 — VPC Peering with Public & Private Subnets
 
-Author: Ayushkumar2533  
+Author: Ayush kumar
 Repository: cloud-computing-summer-internship  
 Project: VPC Peering, Public and Private Subnets (Project 2)  
 Date: (replace with date)
