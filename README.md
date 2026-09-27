@@ -8,7 +8,7 @@ The internship provided hands-on exposure to cloud computing and AWS services, w
 
 ## Organization
 
-**Grass Solution Pvt. Ltd.**
+**Grras Solution Pvt. Ltd.**
 
 The internship was completed through Grass Solution Pvt. Ltd., where I worked on practical cloud computing tasks and AWS-based infrastructure projects.
 
