@@ -2,7 +2,7 @@
 
 ## About the Internship
 
-This repository contains the work, projects, documentation, and learning outcomes from my **Cloud Computing Summer Internship** completed through **Grass Solution Pvt. Ltd.**
+This repository contains the work, projects, documentation, and learning outcomes from my **Cloud Computing Summer Internship** completed through **Grras Solution Pvt. Ltd.**
 
 The internship provided hands-on exposure to cloud computing and AWS services, with a focus on deploying, configuring, and managing cloud infrastructure through practical projects.
 
@@ -185,4 +185,4 @@ Cloud-Computing-Summer-Internship/
 
 This internship provided practical experience with AWS cloud infrastructure and helped develop an understanding of how different AWS services can be combined to build secure, scalable, highly available, and production-oriented cloud architectures.
 
-The projects in this repository document my hands-on learning and implementation throughout the **Cloud Computing Summer Internship** with **Grass Solution Pvt. Ltd.**
+The projects in this repository document my hands-on learning and implementation throughout the **Cloud Computing Summer Internship** with **Grras Solution Pvt. Ltd.**
